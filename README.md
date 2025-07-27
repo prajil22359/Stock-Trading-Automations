@@ -1,4 +1,4 @@
-## 🏦 Automated Stock Trading Bot and Floorsheet Analyzer
+# 🏦 Automated Stock Trading Bot and Floorsheet Analyzer
 
 **⏱ Duration**: Jul 24 – Dec 24  
 **🛠 Tech Stack**: Python, Selenium WebDriver  
@@ -6,7 +6,7 @@
 
 ---
 
-### 🧩 Problem Statement
+## 🧩 Problem Statement
 
 While actively investing in **NEPSE (Nepal Stock Exchange)**, I often noticed stock price surges triggered by news or sentiment. However, NEPSE enforces a strict **2% per trade cap** and a **10% daily limit**, making timing critical to capture high-momentum moves.
 
