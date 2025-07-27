@@ -38,4 +38,16 @@ We developed a **high-speed stock trading bot** and a **daily floorsheet analyze
 ---
 
 ## 📁 Folder Structure
+```
+
+├── floor_sheet_analyser.py        # Floorsheet scraper & analyzer
+├── Trading/
+│   ├── Buy_at_Target.py           # Auto-buy logic at target price
+│   ├── Sell_at_Target.py          # Auto-sell logic at target price
+│   ├── test.py                    # Test scripts for timing & button interaction
+│   ├── chromedriver.exe           # Chrome WebDriver for automation
+│   └── chromedriver-win64/       # ChromeDriver binaries
+└── README.md
+```
+
 
