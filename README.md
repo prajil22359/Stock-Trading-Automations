@@ -39,7 +39,6 @@ We developed a **high-speed stock trading bot** and a **daily floorsheet analyze
 
 ## 📁 Folder Structure
 ```
-
 ├── floor_sheet_analyser.py        # Floorsheet scraper & analyzer
 ├── Trading/
 │   ├── Buy_at_Target.py           # Auto-buy logic at target price
@@ -50,4 +49,17 @@ We developed a **high-speed stock trading bot** and a **daily floorsheet analyze
 └── README.md
 ```
 
+## ⚠️ Limitations
+- Competing against API-based solutions is still tough
+- Internet speed and system lag can affect trade placement
+- This bot is not production-hardened – more of a working prototype
 
+## 🔮 Future Scope
+- Integration with official APIs (if made public)
+- GUI dashboard for easier trade monitoring
+- Strategy builder and rule engine for automated decision-making
+- Robust backtesting module
+
+## 🛡 Disclaimer
+This tool was created for educational and personal exploration of trading automation.
+It is not intended for real-money use without regulatory compliance and thorough testing.
