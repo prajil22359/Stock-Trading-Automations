@@ -1,4 +1,4 @@
-# 🏦 Automated Stock Trading Bot and Floorsheet Analyzer
+# 🏦 Automated Stock Trading Bot & Floorsheet Analyzer
 
 **⏱ Duration**: Jul 24 – Dec 24  
 **🛠 Tech Stack**: Python, Selenium WebDriver  
