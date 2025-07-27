@@ -2,7 +2,7 @@
 
 **⏱ Duration**: Jul 24 – Dec 24  
 **🛠 Tech Stack**: Python, Selenium WebDriver  
-**🔗 GitHub**: [GitHub Repo](#) <!-- Replace # with the actual repository link -->
+**🔗 GitHub**: [GitHub Repo](https://github.com/prajil22359/Stock-Trading-Automations) <!-- Replace # with the actual repository link -->
 
 ---
 
